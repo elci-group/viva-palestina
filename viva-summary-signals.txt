@@ -1,0 +1,39 @@
+event=phase.started component=viva-palestina label="Enhanced evidence records with military/occupation infrastructure warnings"
+event=info component=viva-palestina text="Building warning system for ethical dependency analysis"
+event=warning component=viva-palestina text="3 vendors with CRITICAL IDF military contracts detected:"
+event=status component=viva-palestina label=Microsoft enabled=true
+event=info component=viva-palestina text="  • Azure AI services to Israeli Ministry of Defense"
+event=info component=viva-palestina text="  • Project Nimbus cloud infrastructure provider"
+event=info component=viva-palestina text="  • Requires external review and verification"
+event=status component=viva-palestina label="Google / Alphabet" enabled=true
+event=info component=viva-palestina text="  • Core provider under Project Nimbus"
+event=info component=viva-palestina text="  • Firebase integrated into government/military operations"
+event=info component=viva-palestina text="  • Requires external review and verification"
+event=status component=viva-palestina label="Amazon / AWS" enabled=true
+event=info component=viva-palestina text="  • Cloud infrastructure through Project Nimbus"
+event=info component=viva-palestina text="  • Israeli government and military apparatus support"
+event=info component=viva-palestina text="  • Requires external review and verification"
+event=warning component=viva-palestina text="4 vendors with HIGH occupation infrastructure involvement:"
+event=status component=viva-palestina label=IBM enabled=true
+event=info component=viva-palestina text="  • Government and military infrastructure contracts"
+event=info component=viva-palestina text="  • Direct IDF relationships documented"
+event=status component=viva-palestina label=Palantir enabled=true
+event=info component=viva-palestina text="  • Military analytics deployed by Israeli forces"
+event=info component=viva-palestina text="  • Direct IDF military contract involvement"
+event=status component=viva-palestina label="Motorola Solutions" enabled=true
+event=info component=viva-palestina text="  • Security systems for occupation infrastructure"
+event=info component=viva-palestina text="  • Israeli security apparatus involvement"
+event=status component=viva-palestina label=Intel enabled=true
+event=info component=viva-palestina text="  • Extensive Israeli R&D operations"
+event=info component=viva-palestina text="  • Occupation infrastructure support documented"
+event=phase.completed component=viva-palestina summary="Evidence Record Enhancements:"
+event=report component=viva-palestina headers=Field,Type,Purpose row_count=4
+event=phase.completed component=viva-palestina summary="Commits Created:"
+event=report component=viva-palestina headers=Commit,Message row_count=2
+event=phase.completed component=viva-palestina summary="Files Modified:"
+event=report component=viva-palestina headers=File,Changes row_count=3
+event=phase.completed component=viva-palestina summary="Build Status: PASSING (cargo check ✓)"
+event=phase.completed component=viva-palestina summary="CLI Export: WORKING (registry.yaml generated with warnings)"
+event=phase.completed component=viva-palestina summary="Vendor Commands: FUNCTIONAL (show, list, export all display warnings)"
+event=info component=viva-palestina text="Ready for deployment to github.com/elci-group/viva-palestina"
+event=warning component=viva-palestina text="Push to remote experiencing network timeout (commits safely stored locally)"

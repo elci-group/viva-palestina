@@ -1,0 +1,521 @@
+# Viva Palestina Vendor Registry
+# Generated: 2026-08-24T17:00:26.135487747+00:00
+
+## Tier 0 Vendors
+
+### Microsoft
+
+**Status**: EXCLUDE
+**Confidence**: 95.00%
+**Basis**: military_contract, government_contract
+
+**Evidence**:
+
+- **Company Statement**: Microsoft provides software, professional services, and Azure/Azure AI services to Israeli Ministry of Defense
+  - Source: Microsoft Blogs
+  - Confidence: 95.00%
+  - Status: Verified
+  - **WARNING LEVEL**: CRITICAL ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+- **Community Submission**: Microsoft is listed in BDS technology-target framework
+  - Source: BDS Movement
+  - Confidence: 90.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: CRITICAL ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+### Google / Alphabet
+
+**Status**: EXCLUDE
+**Confidence**: 95.00%
+**Basis**: military_contract, government_contract
+
+**Evidence**:
+
+- **Community Submission**: Google is core provider under Project Nimbus for Israeli government/military cloud infrastructure
+  - Source: BDS Movement
+  - Confidence: 90.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: CRITICAL ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+- **Community Submission**: Google Firebase and other services integrated into Israeli government/military operations
+  - Source: https://bdsmovement.net
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: CRITICAL ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+### Motorola Solutions
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: occupation_infrastructure
+
+**Evidence**:
+
+- **Community Submission**: Motorola Solutions identified in BDS technology campaign; documented Israeli security/occupation involvement
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: HIGH ⚠️
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+### Meta
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: occupation_infrastructure
+
+**Evidence**:
+
+- **Community Submission**: Meta identified in current BDS technology-target list
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+
+### Intel
+
+**Status**: EXCLUDE
+**Confidence**: 90.00%
+**Basis**: occupation_infrastructure
+
+**Evidence**:
+
+- **Community Submission**: Intel identified in BDS technology campaign; extensive Israeli operations and investment
+  - Source: BDS Movement
+  - Confidence: 90.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: HIGH ⚠️
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+### Dell Technologies
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: government_contract
+
+**Evidence**:
+
+- **Community Submission**: Dell identified in BDS technology campaign; documented Israeli government/military procurement
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+
+### HP / HPE
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: occupation_infrastructure, military_contract
+
+**Evidence**:
+
+- **Community Submission**: HP identified in BDS technology campaign; documented Israeli military, prison and occupation infrastructure
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+
+### Cisco
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: occupation_infrastructure
+
+**Evidence**:
+
+- **Community Submission**: Cisco is identified in BDS technology campaign; documented occupation/security infrastructure involvement
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+
+### Oracle
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: government_contract
+
+**Evidence**:
+
+- **Community Submission**: Oracle is documented as providing infrastructure to Israeli government and military
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+
+### Amazon / AWS
+
+**Status**: EXCLUDE
+**Confidence**: 95.00%
+**Basis**: military_contract, government_contract
+
+**Evidence**:
+
+- **Community Submission**: Amazon provides cloud infrastructure through Project Nimbus for Israeli government and military
+  - Source: BDS Movement
+  - Confidence: 90.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: CRITICAL ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+- **Community Submission**: Amazon is listed in BDS technology-target framework
+  - Source: https://bdsmovement.net
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: CRITICAL ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+### Palantir
+
+**Status**: EXCLUDE
+**Confidence**: 90.00%
+**Basis**: military_contract
+
+**Evidence**:
+
+- **Community Submission**: Palantir identified in BDS technology campaign; documented military relationship
+  - Source: BDS Movement
+  - Confidence: 90.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: HIGH ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+### IBM
+
+**Status**: EXCLUDE
+**Confidence**: 85.00%
+**Basis**: government_contract, military_contract
+
+**Evidence**:
+
+- **Community Submission**: IBM has documented Israeli government and military infrastructure relationships
+  - Source: BDS Movement
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+  - **WARNING LEVEL**: HIGH ⚠️
+  - **IDF ASSOCIATION**: Vendor has documented relationship with Israeli Defense Force
+  - **OCCUPATION INFRASTRUCTURE**: Vendor supports occupation infrastructure
+  - **REQUIRES EXTERNAL REVIEW**: Evidence needs independent verification
+
+## Tier 1 Vendors
+
+### SimilarWeb
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: SimilarWeb is Israeli web analytics platform
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### Riskified
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: Riskified is Israeli fraud detection/e-commerce platform
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### Valens Semiconductor
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: Valens Semiconductor is Israeli semiconductor/connectivity company
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### NICE
+
+**Status**: REVIEW
+**Confidence**: 75.00%
+**Basis**: israeli_vendor, surveillance
+
+**Evidence**:
+
+- **Research Paper**: NICE is Israeli software company providing surveillance and call center solutions
+  - Source: Who Profits
+  - Confidence: 80.00%
+  - Status: Documented Relationship
+
+### Mobileye
+
+**Status**: REVIEW
+**Confidence**: 75.00%
+**Basis**: israeli_vendor, intel_subsidiary
+
+**Evidence**:
+
+- **Research Paper**: Mobileye is Israeli autonomous vehicle company acquired by Intel
+  - Source: Who Profits
+  - Confidence: 85.00%
+  - Status: Documented Relationship
+
+### Check Point
+
+**Status**: REVIEW
+**Confidence**: 75.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: Check Point is Israeli cybersecurity company with operations in Israeli security sector
+  - Source: Who Profits
+  - Confidence: 80.00%
+  - Status: Documented Relationship
+
+### Matrix IT
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: Matrix IT is Israeli technology services provider
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### Amdocs
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: Amdocs is Israeli software/telecom company
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### OrCam
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: OrCam is Israeli computer vision/AI company
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### Nova
+
+**Status**: REVIEW
+**Confidence**: 70.00%
+**Basis**: israeli_vendor
+
+**Evidence**:
+
+- **Research Paper**: Nova is Israeli technology company
+  - Source: Who Profits
+  - Confidence: 70.00%
+  - Status: Documented Relationship
+
+### Radware
+
+**Status**: REVIEW
+**Confidence**: 75.00%
+**Basis**: israeli_vendor, security
+
+**Evidence**:
+
+- **Research Paper**: Radware is Israeli cybersecurity company providing DDoS protection and security services
+  - Source: Who Profits
+  - Confidence: 80.00%
+  - Status: Documented Relationship
+
+## Tier 2 Vendors
+
+### Google Workspace
+
+**Status**: EXCLUDE
+**Confidence**: 90.00%
+**Basis**: owned_by_google, productivity_suite
+
+**Evidence**:
+
+- **Company Statement**: Google Workspace is owned and operated by Google/Alphabet
+  - Source: Google Official
+  - Confidence: 95.00%
+  - Status: Verified
+
+- **Automated Inference**: Google Workspace inherits exclusion from parent company Google
+  - Source: Viva Palestina Analysis
+  - Confidence: 90.00%
+  - Status: Inference
+
+### Travis CI
+
+**Status**: ALLOW
+**Confidence**: 60.00%
+**Basis**: independent_vendor, ci_cd
+
+**Evidence**:
+
+- **Company Statement**: Travis CI is independently owned CI/CD platform
+  - Source: Travis CI Official
+  - Confidence: 85.00%
+  - Status: Verified
+
+- **Automated Inference**: No documented problematic relationships identified
+  - Source: Viva Palestina Analysis
+  - Confidence: 60.00%
+  - Status: Inference
+
+### Azure DevOps
+
+**Status**: EXCLUDE
+**Confidence**: 90.00%
+**Basis**: owned_by_microsoft, developer_platform
+
+**Evidence**:
+
+- **Company Statement**: Azure DevOps is owned and operated by Microsoft
+  - Source: Microsoft Official
+  - Confidence: 95.00%
+  - Status: Verified
+
+- **Automated Inference**: Azure DevOps inherits exclusion from parent company Microsoft
+  - Source: Viva Palestina Analysis
+  - Confidence: 90.00%
+  - Status: Inference
+
+### Grafana
+
+**Status**: ALLOW
+**Confidence**: 60.00%
+**Basis**: independent_vendor, open_source_foundation
+
+**Evidence**:
+
+- **Company Statement**: Grafana Labs is independently owned; core project is FOSS (AGPL)
+  - Source: Grafana Official
+  - Confidence: 90.00%
+  - Status: Verified
+
+- **Automated Inference**: No documented problematic relationships identified
+  - Source: Viva Palestina Analysis
+  - Confidence: 60.00%
+  - Status: Inference
+
+### CircleCI
+
+**Status**: ALLOW
+**Confidence**: 60.00%
+**Basis**: independent_vendor, ci_cd
+
+**Evidence**:
+
+- **Company Statement**: CircleCI is independently owned CI/CD platform
+  - Source: CircleCI Official
+  - Confidence: 85.00%
+  - Status: Verified
+
+- **Automated Inference**: No documented problematic relationships identified
+  - Source: Viva Palestina Analysis
+  - Confidence: 60.00%
+  - Status: Inference
+
+### GitLab
+
+**Status**: ALLOW
+**Confidence**: 50.00%
+**Basis**: independent_vendor, open_source_core
+
+**Evidence**:
+
+- **Company Statement**: GitLab is independently owned company; core codebase is FOSS (AGPL)
+  - Source: GitLab Official
+  - Confidence: 90.00%
+  - Status: Verified
+
+- **Automated Inference**: No documented military/government contracts or problematic relationships identified
+  - Source: Viva Palestina Analysis
+  - Confidence: 50.00%
+  - Status: Inference
+
+### Datadog
+
+**Status**: REVIEW
+**Confidence**: 50.00%
+**Basis**: independent_vendor, monitoring
+
+**Evidence**:
+
+- **Company Statement**: Datadog is independently owned public company
+  - Source: Datadog Official
+  - Confidence: 85.00%
+  - Status: Verified
+
+- **Automated Inference**: No documented military/government exclusion found; requires further investigation
+  - Source: Viva Palestina Analysis
+  - Confidence: 50.00%
+  - Status: Unresolved Claim
+
+### Google Firebase
+
+**Status**: EXCLUDE
+**Confidence**: 90.00%
+**Basis**: owned_by_google, cloud_platform
+
+**Evidence**:
+
+- **Company Statement**: Firebase is owned and operated by Google/Alphabet
+  - Source: Google Official
+  - Confidence: 95.00%
+  - Status: Verified
+
+- **Automated Inference**: Firebase inherits exclusion from parent company Google (Project Nimbus, military contracts)
+  - Source: Viva Palestina Analysis
+  - Confidence: 90.00%
+  - Status: Inference
+
+### GitHub
+
+**Status**: REVIEW
+**Confidence**: 85.00%
+**Basis**: owned_by_microsoft, developer_platform
+
+**Evidence**:
+
+- **Company Statement**: GitHub is owned by Microsoft (acquired 2018)
+  - Source: GitHub Official
+  - Confidence: 95.00%
+  - Status: Verified
+
+- **Automated Inference**: GitHub is a developer platform owned by excluded vendor Microsoft; inherited exclusion through ownership
+  - Source: Viva Palestina Analysis
+  - Confidence: 85.00%
+  - Status: Inference
+
