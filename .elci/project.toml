@@ -1,0 +1,32 @@
+# ELCI project manifest — ELCI-RGCA-001 §5
+# Provisional (Phase 1 machine draft). Human review required for Tier-S/A.
+schema_version = "1.0"
+
+[project]
+id = "viva-palestina"
+name = "viva-palestina"
+descriptor = "Viva Palestina is an evidence-backed vendor registry for ethical dependency screening. It tracks technology vendors with documented military or occupation-related contracts, assigning exclusion statuses with confidence scores and sourced evidence records, published as YAML for use by analysis tools like Uni."
+status = "active"
+maturity = "beta"
+class = "support"
+
+[ownership]
+organisation = "elci-group"
+maintainer = "ELCI Group"
+
+[architecture]
+independent_boundary = true
+boundary_reason = "Provisional Phase 1 classification (tier B); pending §17 rationalisation review."
+parent = []
+capabilities = []
+consumers = []
+
+[authority]
+human_write_authority = true
+agent_write_authority = false
+autonomous_operation = false
+
+[lifecycle]
+introduced = "2026"
+supersedes = []
+superseded_by = []
